@@ -1,0 +1,8 @@
+a_list = ["Python", "Convert", 11, "List", 12, "String", "Method"]  
+  
+# Converting to string  
+string = " ".join( a_list )  
+  
+# Printing the string  
+print (string)  
+print (type(string))  
